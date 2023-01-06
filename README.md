@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio Website - v3.0<br/>
   <a href="http://louaialoui.netlify.app/" target="_blank">louai.netlify</a>
 </h2>
 <div align="center">
@@ -36,7 +36,6 @@ This project was built using these technologies.
 - Express.js
 - CSS3
 - VsCode
-- Vercel
 
 ## Features
 
