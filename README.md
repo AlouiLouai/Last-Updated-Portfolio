@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v3.0<br/>
-  <a href="http://louaialoui.netlify.app/" target="_blank">louai.netlify</a>
+  <a href="http://louai.netlify.app/" target="_blank">louai.netlify</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/ab.PNG" />
@@ -27,7 +27,7 @@
 
 ## Built With
 
-My personal portfolio <a href="http://louaialoui.netlify.app/" target="_blank">louai.netlify</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="http://louai.netlify.app/" target="_blank">louai.netlify</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
